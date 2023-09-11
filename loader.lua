@@ -1,5 +1,5 @@
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Adidsus/untested/main/petsimx.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TinajeroDev/Pet/main/petsimx.lua"))()
 
 
