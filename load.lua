@@ -37,7 +37,7 @@ if _G.ScriptName == nil and _G.FirstText == nil and _G.SecondText == nil and _G.
 	_G.WaitingTime = 180;
 end
 ;
-RLoading.Name = "Tinajeroo1";
+RLoading.Name = "cuentaakertilin64";
 RLoading.Parent = game:GetService("CoreGui");
 RLoading.IgnoreGuiInset = true;
 RMainFrame.Name = "RMainFrame";
